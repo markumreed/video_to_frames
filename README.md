@@ -1,7 +1,3 @@
-Here’s documentation for the script that extracts frames from every video in a folder and saves them in organized subfolders:
-
----
-
 # 📄 Video Frame Extractor - Python Script Documentation
 
 ## 📝 Description
