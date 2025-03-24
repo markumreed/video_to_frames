@@ -91,7 +91,3 @@ python video_frame_extractor.py
 ```
 
 Make sure your `videos/` folder is in the same directory or update the `video_folder` variable with the correct path.
-
----
-
-Let me know if you’d like a command-line version or to extend it with Nth-frame extraction, resizing, or grayscale conversion!
